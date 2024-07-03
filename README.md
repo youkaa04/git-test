@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="QRcode.css">
     <style>
-        .item{
-    border: 1px solid grey;
-    background-color: grey;
-    width: 500px;
-    height: 700px;
+.item{
+    border: 1px solid rgb(215, 215, 215);
+    background-color: rgb(215, 215, 215);
+    width: 100%;
+    height: 100%;
 }
 .container{
     border: 1px solid white;
@@ -20,7 +20,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin: 140px;
 }
 img{
     width: 199px;
