@@ -82,3 +82,4 @@ p{
     </div>
 </body>
 </html>
+"# qr-code-component-main" 
